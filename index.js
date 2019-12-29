@@ -1,1 +1,1 @@
-TextDecoderStream.JSON.stringify(obj);
+TextDecoderStream.JSON.stringify(obj);localStorage   test 
