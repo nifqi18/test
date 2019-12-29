@@ -1,0 +1,1 @@
+TextDecoderStream.JSON.stringify(obj);
